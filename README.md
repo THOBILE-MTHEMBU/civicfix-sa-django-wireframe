@@ -21,10 +21,7 @@ The layout uses a shared `base.html` template with a top navigation bar. From th
 
 ## GitHub Link
 
-Replace this placeholder after you push the project:
-
-[https://github.com/your-username/citymendersa-django-wireframe](https://github.com/your-username/citymendersa-django-wireframe)
-
+https://github.com/THOBILE-MTHEMBU/citymendersa-django-wireframe
 ## Screenshots
 
 ### 1. Dashboard View
