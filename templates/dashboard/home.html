@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+
+{% block title %}Home | CityMenderSA{% endblock %}
+
+{% block content %}
+<section class="hero-panel">
+    <div>
+        <p class="section-tag">Home Screen</p>
+        <h2>Welcome, {{ resident_name }}!</h2>
+        <p class="lead-copy">
+            The dashboard is the resident's central hub. It gives quick access to reporting,
+            visibility of system status, and a short list of recent issues.
+        </p>
+    </div>
+    <a class="cta-link" href="{% url 'reports:create_report' %}">Report New Issue</a>
+</section>
+
+<section class="grid-layout">
+    <article class="card">
+        <h3>Quick Access</h3>
+        <div class="button-grid">
+            <a href="{% url 'dashboard:home' %}">Dashboard</a>
+            <a href="{% url 'reports:create_report' %}">Profile</a>
+            <a href="{% url 'reports:create_report' %}">Settings</a>
+            <a href="{% url 'reports:create_report' %}">Help</a>
+        </div>
+    </article>
+
+    <article class="card">
+        <h3>Report Status</h3>
+        <div class="status-row">
+            {% for card in status_cards %}
+            <div class="status-card {{ card.tone }}">
+                <span>{{ card.label }}</span>
+                <strong>{{ card.count }}</strong>
+            </div>
+            {% endfor %}
+        </div>
+    </article>
+
+    <article class="card wide-card">
+        <h3>Recent Reports</h3>
+        <ul class="report-list">
+            {% for report in recent_reports %}
+            <li>{{ report }}</li>
+            {% endfor %}
+        </ul>
+    </article>
+</section>
+{% endblock %}

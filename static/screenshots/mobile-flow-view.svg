@@ -1,0 +1,53 @@
+<svg width="900" height="720" viewBox="0 0 900 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="720" fill="#F3F5EF"/>
+  <rect x="160" y="34" width="250" height="652" rx="48" fill="#FCFBF6" stroke="#9AA7A0" stroke-width="4"/>
+  <text x="222" y="78" fill="#1D2A32" font-family="Segoe UI" font-size="24" font-weight="700">1. Home Screen</text>
+  <rect x="187" y="104" width="196" height="26" fill="#FFFDF8" stroke="#CBD5D0"/>
+  <text x="194" y="122" fill="#5C6C72" font-family="Segoe UI" font-size="12">logo</text>
+  <text x="245" y="122" fill="#5C6C72" font-family="Segoe UI" font-size="12">Updates</text>
+  <rect x="320" y="109" width="54" height="16" rx="8" fill="#E8D36F"/>
+  <text x="331" y="121" fill="#1D2A32" font-family="Segoe UI" font-size="11">Search</text>
+  <text x="196" y="160" fill="#1D2A32" font-family="Segoe UI" font-size="20" font-weight="700">Welcome, Thabo!</text>
+  <rect x="196" y="182" width="94" height="30" fill="#EFF6F3" stroke="#CBD5D0"/>
+  <rect x="300" y="182" width="74" height="30" fill="#EFF6F3" stroke="#CBD5D0"/>
+  <rect x="196" y="220" width="94" height="30" fill="#EFF6F3" stroke="#CBD5D0"/>
+  <rect x="300" y="220" width="74" height="30" fill="#EFF6F3" stroke="#CBD5D0"/>
+  <text x="211" y="202" fill="#1D2A32" font-family="Segoe UI" font-size="14">Dashboard</text>
+  <text x="321" y="202" fill="#1D2A32" font-family="Segoe UI" font-size="14">Profile</text>
+  <text x="221" y="240" fill="#1D2A32" font-family="Segoe UI" font-size="14">Settings</text>
+  <text x="321" y="240" fill="#1D2A32" font-family="Segoe UI" font-size="14">Help</text>
+  <rect x="196" y="283" width="76" height="42" fill="#F9E9B3" stroke="#CBD5D0"/>
+  <rect x="286" y="283" width="96" height="42" fill="#CBE8D6" stroke="#CBD5D0"/>
+  <rect x="238" y="337" width="92" height="42" fill="#C2E4CF" stroke="#CBD5D0"/>
+  <text x="213" y="308" fill="#143128" font-family="Segoe UI" font-size="14">Pending</text>
+  <text x="302" y="308" fill="#143128" font-family="Segoe UI" font-size="14">In Progress</text>
+  <text x="260" y="362" fill="#143128" font-family="Segoe UI" font-size="14">Resolved</text>
+  <text x="196" y="424" fill="#1D2A32" font-family="Segoe UI" font-size="16">Report A</text>
+  <text x="196" y="450" fill="#1D2A32" font-family="Segoe UI" font-size="16">Report B</text>
+  <text x="196" y="476" fill="#1D2A32" font-family="Segoe UI" font-size="16">Report C</text>
+  <rect x="208" y="534" width="158" height="42" fill="#BEE1F9" stroke="#CBD5D0"/>
+  <text x="230" y="560" fill="#1D2A32" font-family="Segoe UI" font-size="16" font-weight="700">Report New Issue</text>
+
+  <rect x="500" y="34" width="250" height="652" rx="48" fill="#FCFBF6" stroke="#9AA7A0" stroke-width="4"/>
+  <text x="532" y="78" fill="#1D2A32" font-family="Segoe UI" font-size="24" font-weight="700">2. Report Issue</text>
+  <text x="532" y="128" fill="#1D2A32" font-family="Segoe UI" font-size="18">&lt; Back</text>
+  <rect x="532" y="182" width="140" height="34" fill="#CDEEE4" stroke="#CBD5D0"/>
+  <text x="560" y="204" fill="#0D5B54" font-family="Segoe UI" font-size="16" font-weight="700">Step 1 of 3</text>
+  <rect x="532" y="262" width="188" height="42" fill="#D8F0C5" stroke="#CBD5D0"/>
+  <text x="545" y="289" fill="#1D2A32" font-family="Segoe UI" font-size="16">Select Issue Type</text>
+  <rect x="532" y="354" width="160" height="42" fill="#F3F5EF" stroke="#CBD5D0"/>
+  <text x="554" y="381" fill="#1D2A32" font-family="Segoe UI" font-size="16">Upload Photo</text>
+  <rect x="532" y="446" width="198" height="42" fill="#D8F0C5" stroke="#CBD5D0"/>
+  <text x="548" y="473" fill="#1D2A32" font-family="Segoe UI" font-size="16">Add Location</text>
+  <rect x="560" y="544" width="144" height="48" fill="#BEE1F9" stroke="#CBD5D0"/>
+  <text x="582" y="574" fill="#1D2A32" font-family="Segoe UI" font-size="16" font-weight="700">Submit Report</text>
+
+  <text x="64" y="224" fill="#5C6C72" font-family="Segoe UI" font-size="22">Quick access to</text>
+  <text x="64" y="252" fill="#5C6C72" font-family="Segoe UI" font-size="22">main features</text>
+  <text x="60" y="414" fill="#5C6C72" font-family="Segoe UI" font-size="22">Visibility and</text>
+  <text x="60" y="442" fill="#5C6C72" font-family="Segoe UI" font-size="22">feedback</text>
+  <text x="768" y="262" fill="#5C6C72" font-family="Segoe UI" font-size="22">Choose</text>
+  <text x="768" y="290" fill="#5C6C72" font-family="Segoe UI" font-size="22">category</text>
+  <text x="768" y="356" fill="#5C6C72" font-family="Segoe UI" font-size="22">Attach image</text>
+  <text x="768" y="446" fill="#5C6C72" font-family="Segoe UI" font-size="22">Set location</text>
+</svg>

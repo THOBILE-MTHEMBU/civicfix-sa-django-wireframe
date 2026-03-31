@@ -1,0 +1,29 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}CityMenderSA{% endblock %}</title>
+    <link rel="stylesheet" href="{% static 'css/site.css' %}">
+</head>
+<body>
+    <header class="site-header">
+        <div class="brand-block">
+            <div class="brand-mark">CM</div>
+            <div>
+                <p class="brand-eyebrow">Community service reporting</p>
+                <h1 class="brand-title">CityMenderSA</h1>
+            </div>
+        </div>
+        <nav class="main-nav" aria-label="Primary navigation">
+            <a href="{% url 'dashboard:home' %}">Dashboard</a>
+            <a href="{% url 'reports:create_report' %}">Report Issue</a>
+        </nav>
+    </header>
+
+    <main class="page-shell">
+        {% block content %}{% endblock %}
+    </main>
+</body>
+</html>

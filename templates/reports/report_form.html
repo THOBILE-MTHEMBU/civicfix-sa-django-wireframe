@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+
+{% block title %}Report Issue | CityMenderSA{% endblock %}
+
+{% block content %}
+<section class="hero-panel compact">
+    <div>
+        <p class="section-tag">Report Issue Form</p>
+        <h2>Submit a community issue in 3 simple steps</h2>
+        <p class="lead-copy">
+            This view supports learnability by guiding residents through category selection,
+            optional evidence, and location details before submission.
+        </p>
+    </div>
+    <a class="ghost-link" href="{% url 'dashboard:home' %}">Back to Dashboard</a>
+</section>
+
+<section class="form-card">
+    <div class="progress-pill">Step 1 of 3</div>
+
+    <form>
+        <label for="issue_type">Select issue type</label>
+        <select id="issue_type" name="issue_type">
+            {% for issue_type in issue_types %}
+            <option>{{ issue_type }}</option>
+            {% endfor %}
+        </select>
+
+        <label for="photo">Upload photo</label>
+        <input id="photo" name="photo" type="file">
+
+        <label for="location">Add location</label>
+        <input id="location" name="location" type="text" placeholder="Auto-detect or enter address manually">
+
+        <button type="submit">Submit Report</button>
+    </form>
+    <p class="form-note">This is a wireframe structure, so the form is visual only for the assignment.</p>
+</section>
+{% endblock %}
