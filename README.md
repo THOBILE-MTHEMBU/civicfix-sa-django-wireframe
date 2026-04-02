@@ -48,11 +48,3 @@ https://github.com/THOBILE-MTHEMBU/civicfix-sa-django-wireframe
 
 ![Mobile flow screenshot](static/screenshots/mobile-flow-view.svg)
 
-## Run Instructions
-
-1. Install Django:
-   `pip install django`
-2. Start the server:
-   `python manage.py runserver`
-3. Open:
-   `http://127.0.0.1:8000/`
