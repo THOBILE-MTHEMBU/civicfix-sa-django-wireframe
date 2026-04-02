@@ -1,0 +1,46 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" fill="#F3F5EF"/>
+  <rect x="40" y="28" width="1200" height="86" rx="24" fill="#FFFDF8" stroke="#DDE5DC"/>
+  <rect x="68" y="49" width="50" height="50" rx="16" fill="#0F766E"/>
+  <text x="80" y="81" fill="white" font-family="Segoe UI" font-size="24" font-weight="700">CM</text>
+  <text x="138" y="64" fill="#5C6C72" font-family="Segoe UI" font-size="16">Community service reporting</text>
+  <text x="138" y="92" fill="#1D2A32" font-family="Segoe UI" font-size="28" font-weight="700">CityMenderSA</text>
+  <text x="946" y="79" fill="#1D2A32" font-family="Segoe UI" font-size="20" font-weight="600">Dashboard</text>
+  <text x="1085" y="79" fill="#1D2A32" font-family="Segoe UI" font-size="20" font-weight="600">Report Issue</text>
+
+  <rect x="40" y="140" width="1200" height="146" rx="28" fill="#FFFDF8" stroke="#DDE5DC"/>
+  <text x="76" y="184" fill="#5C6C72" font-family="Segoe UI" font-size="16">Home Screen</text>
+  <text x="76" y="222" fill="#1D2A32" font-family="Segoe UI" font-size="36" font-weight="700">Welcome, Thabo!</text>
+  <text x="76" y="256" fill="#5C6C72" font-family="Segoe UI" font-size="18">Quick access, report visibility, and recent issues from one dashboard.</text>
+  <rect x="988" y="186" width="210" height="54" rx="27" fill="#0F766E"/>
+  <text x="1024" y="220" fill="white" font-family="Segoe UI" font-size="20" font-weight="700">Report New Issue</text>
+
+  <rect x="40" y="314" width="380" height="184" rx="24" fill="#FFFDF8" stroke="#DDE5DC"/>
+  <text x="68" y="356" fill="#1D2A32" font-family="Segoe UI" font-size="28" font-weight="700">Quick Access</text>
+  <rect x="68" y="382" width="140" height="46" rx="18" fill="#EFF6F3"/>
+  <rect x="220" y="382" width="140" height="46" rx="18" fill="#EFF6F3"/>
+  <rect x="68" y="440" width="140" height="46" rx="18" fill="#EFF6F3"/>
+  <rect x="220" y="440" width="140" height="46" rx="18" fill="#EFF6F3"/>
+  <text x="97" y="411" fill="#1D2A32" font-family="Segoe UI" font-size="18" font-weight="600">Dashboard</text>
+  <text x="267" y="411" fill="#1D2A32" font-family="Segoe UI" font-size="18" font-weight="600">Profile</text>
+  <text x="107" y="469" fill="#1D2A32" font-family="Segoe UI" font-size="18" font-weight="600">Settings</text>
+  <text x="278" y="469" fill="#1D2A32" font-family="Segoe UI" font-size="18" font-weight="600">Help</text>
+
+  <rect x="446" y="314" width="794" height="184" rx="24" fill="#FFFDF8" stroke="#DDE5DC"/>
+  <text x="474" y="356" fill="#1D2A32" font-family="Segoe UI" font-size="28" font-weight="700">Report Status</text>
+  <rect x="474" y="382" width="230" height="92" rx="20" fill="#F9E9B3"/>
+  <rect x="728" y="382" width="230" height="92" rx="20" fill="#CBE8D6"/>
+  <rect x="982" y="382" width="230" height="92" rx="20" fill="#C2E4CF"/>
+  <text x="502" y="416" fill="#143128" font-family="Segoe UI" font-size="20" font-weight="600">Pending</text>
+  <text x="816" y="416" fill="#143128" font-family="Segoe UI" font-size="20" font-weight="600">In Progress</text>
+  <text x="1040" y="416" fill="#143128" font-family="Segoe UI" font-size="20" font-weight="600">Resolved</text>
+  <text x="502" y="456" fill="#143128" font-family="Segoe UI" font-size="34" font-weight="700">2</text>
+  <text x="816" y="456" fill="#143128" font-family="Segoe UI" font-size="34" font-weight="700">1</text>
+  <text x="1040" y="456" fill="#143128" font-family="Segoe UI" font-size="34" font-weight="700">4</text>
+
+  <rect x="40" y="524" width="1200" height="152" rx="24" fill="#FFFDF8" stroke="#DDE5DC"/>
+  <text x="68" y="566" fill="#1D2A32" font-family="Segoe UI" font-size="28" font-weight="700">Recent Reports</text>
+  <text x="68" y="605" fill="#1D2A32" font-family="Segoe UI" font-size="20">• Pothole on Main Street</text>
+  <text x="68" y="636" fill="#1D2A32" font-family="Segoe UI" font-size="20">• Broken streetlight near taxi rank</text>
+  <text x="68" y="667" fill="#1D2A32" font-family="Segoe UI" font-size="20">• Blocked drain in Galeshewe</text>
+</svg>

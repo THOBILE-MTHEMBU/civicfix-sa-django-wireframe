@@ -1,0 +1,33 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" fill="#F3F5EF"/>
+  <rect x="40" y="28" width="1200" height="86" rx="24" fill="#FFFDF8" stroke="#DDE5DC"/>
+  <rect x="68" y="49" width="50" height="50" rx="16" fill="#0F766E"/>
+  <text x="80" y="81" fill="white" font-family="Segoe UI" font-size="24" font-weight="700">CM</text>
+  <text x="138" y="64" fill="#5C6C72" font-family="Segoe UI" font-size="16">Community service reporting</text>
+  <text x="138" y="92" fill="#1D2A32" font-family="Segoe UI" font-size="28" font-weight="700">CityMenderSA</text>
+
+  <rect x="40" y="140" width="1200" height="146" rx="28" fill="#FFFDF8" stroke="#DDE5DC"/>
+  <text x="76" y="184" fill="#5C6C72" font-family="Segoe UI" font-size="16">Report Issue Form</text>
+  <text x="76" y="222" fill="#1D2A32" font-family="Segoe UI" font-size="36" font-weight="700">Submit a community issue in 3 simple steps</text>
+  <text x="76" y="256" fill="#5C6C72" font-family="Segoe UI" font-size="18">Category selection, optional photo evidence, and location entry.</text>
+  <rect x="1008" y="186" width="170" height="54" rx="27" fill="white" stroke="#DDE5DC"/>
+  <text x="1042" y="220" fill="#1D2A32" font-family="Segoe UI" font-size="20" font-weight="700">Back to Dashboard</text>
+
+  <rect x="260" y="320" width="760" height="316" rx="26" fill="#FFFDF8" stroke="#DDE5DC"/>
+  <rect x="302" y="354" width="120" height="40" rx="20" fill="#CDEEE4"/>
+  <text x="322" y="380" fill="#0D5B54" font-family="Segoe UI" font-size="18" font-weight="700">Step 1 of 3</text>
+
+  <text x="302" y="438" fill="#1D2A32" font-family="Segoe UI" font-size="20" font-weight="600">Select issue type</text>
+  <rect x="302" y="452" width="676" height="56" rx="18" fill="white" stroke="#CBD5D0"/>
+  <text x="328" y="487" fill="#5C6C72" font-family="Segoe UI" font-size="18">Pothole</text>
+
+  <text x="302" y="548" fill="#1D2A32" font-family="Segoe UI" font-size="20" font-weight="600">Upload photo</text>
+  <rect x="302" y="562" width="676" height="56" rx="18" fill="white" stroke="#CBD5D0"/>
+  <text x="328" y="597" fill="#5C6C72" font-family="Segoe UI" font-size="18">Choose file...</text>
+
+  <text x="302" y="658" fill="#1D2A32" font-family="Segoe UI" font-size="20" font-weight="600">Add location</text>
+  <rect x="302" y="672" width="450" height="56" rx="18" fill="white" stroke="#CBD5D0"/>
+  <text x="328" y="707" fill="#5C6C72" font-family="Segoe UI" font-size="18">Auto-detect or enter address manually</text>
+  <rect x="784" y="672" width="194" height="56" rx="28" fill="#0F766E"/>
+  <text x="822" y="707" fill="white" font-family="Segoe UI" font-size="20" font-weight="700">Submit Report</text>
+</svg>

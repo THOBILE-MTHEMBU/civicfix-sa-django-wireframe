@@ -24,13 +24,25 @@ The layout uses a shared `base.html` template with a top navigation bar. From th
 https://github.com/THOBILE-MTHEMBU/civicfix-sa-django-wireframe
 ## Screenshots
 
-### 1. Dashboard View
+### 1. Before AI Evaluation
 
-![Dashboard screenshot](static/screenshots/dashboard-view.svg)
+#### Dashboard View
 
-### 2. Report Form View
+![Before AI dashboard screenshot](static/screenshots/dashboard-view-before-ai.svg)
 
-![Report form screenshot](static/screenshots/report-form-view.svg)
+#### Report Form View
+
+![Before AI report form screenshot](static/screenshots/report-form-view-before-ai.svg)
+
+### 2. After AI Evaluation
+
+#### Dashboard View
+
+![After AI dashboard screenshot](static/screenshots/dashboard-view.svg)
+
+#### Report Form View
+
+![After AI report form screenshot](static/screenshots/report-form-view.svg)
 
 ### 3. Mobile Flow Overview
 
