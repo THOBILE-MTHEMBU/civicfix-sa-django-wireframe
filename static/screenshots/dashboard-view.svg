@@ -2,11 +2,12 @@
   <rect width="1280" height="720" fill="#F3F5EF"/>
   <rect x="40" y="28" width="1200" height="86" rx="24" fill="#FFFDF8" stroke="#DDE5DC"/>
   <rect x="68" y="49" width="50" height="50" rx="16" fill="#0F766E"/>
-  <text x="80" y="81" fill="white" font-family="Segoe UI" font-size="24" font-weight="700">CM</text>
+  <text x="81" y="81" fill="white" font-family="Segoe UI" font-size="24" font-weight="700">CF</text>
   <text x="138" y="64" fill="#5C6C72" font-family="Segoe UI" font-size="16">Community service reporting</text>
-<text x="138" y="92" fill="#1D2A32" font-family="Segoe UI" font-size="28" font-weight="700">CivicFix SA</text>
-  <text x="946" y="79" fill="#1D2A32" font-family="Segoe UI" font-size="20" font-weight="600">Dashboard</text>
-  <text x="1085" y="79" fill="#1D2A32" font-family="Segoe UI" font-size="20" font-weight="600">Report Issue</text>
+  <text x="138" y="92" fill="#1D2A32" font-family="Segoe UI" font-size="28" font-weight="700">CivicFix SA</text>
+  <rect x="920" y="52" width="128" height="34" rx="17" fill="#DDF3EC"/>
+  <text x="948" y="75" fill="#0D5B54" font-family="Segoe UI" font-size="20" font-weight="700">Dashboard</text>
+  <text x="1084" y="75" fill="#1D2A32" font-family="Segoe UI" font-size="20" font-weight="600">Report Issue</text>
 
   <rect x="40" y="140" width="1200" height="146" rx="28" fill="#FFFDF8" stroke="#DDE5DC"/>
   <text x="76" y="184" fill="#5C6C72" font-family="Segoe UI" font-size="16">Home Screen</text>
@@ -17,14 +18,14 @@
 
   <rect x="40" y="314" width="380" height="184" rx="24" fill="#FFFDF8" stroke="#DDE5DC"/>
   <text x="68" y="356" fill="#1D2A32" font-family="Segoe UI" font-size="28" font-weight="700">Quick Access</text>
-  <rect x="68" y="382" width="140" height="46" rx="18" fill="#EFF6F3"/>
-  <rect x="220" y="382" width="140" height="46" rx="18" fill="#EFF6F3"/>
-  <rect x="68" y="440" width="140" height="46" rx="18" fill="#EFF6F3"/>
-  <rect x="220" y="440" width="140" height="46" rx="18" fill="#EFF6F3"/>
+  <rect x="68" y="382" width="140" height="46" rx="18" fill="#EFF6F3" stroke="#CFE0D8"/>
+  <rect x="220" y="382" width="140" height="46" rx="18" fill="#EFF6F3" stroke="#CFE0D8"/>
+  <rect x="68" y="440" width="140" height="46" rx="18" fill="#EFF6F3" stroke="#CFE0D8"/>
+  <rect x="220" y="440" width="140" height="46" rx="18" fill="#EFF6F3" stroke="#CFE0D8"/>
   <text x="97" y="411" fill="#1D2A32" font-family="Segoe UI" font-size="18" font-weight="600">Dashboard</text>
-  <text x="267" y="411" fill="#1D2A32" font-family="Segoe UI" font-size="18" font-weight="600">Profile</text>
-  <text x="107" y="469" fill="#1D2A32" font-family="Segoe UI" font-size="18" font-weight="600">Settings</text>
-  <text x="278" y="469" fill="#1D2A32" font-family="Segoe UI" font-size="18" font-weight="600">Help</text>
+  <text x="237" y="411" fill="#1D2A32" font-family="Segoe UI" font-size="17" font-weight="600">Report New Issue</text>
+  <text x="89" y="469" fill="#1D2A32" font-family="Segoe UI" font-size="17" font-weight="600">Track Existing</text>
+  <text x="254" y="469" fill="#1D2A32" font-family="Segoe UI" font-size="18" font-weight="600">Help Center</text>
 
   <rect x="446" y="314" width="794" height="184" rx="24" fill="#FFFDF8" stroke="#DDE5DC"/>
   <text x="474" y="356" fill="#1D2A32" font-family="Segoe UI" font-size="28" font-weight="700">Report Status</text>
@@ -40,7 +41,7 @@
 
   <rect x="40" y="524" width="1200" height="152" rx="24" fill="#FFFDF8" stroke="#DDE5DC"/>
   <text x="68" y="566" fill="#1D2A32" font-family="Segoe UI" font-size="28" font-weight="700">Recent Reports</text>
-  <text x="68" y="605" fill="#1D2A32" font-family="Segoe UI" font-size="20">• Pothole on Main Street</text>
-  <text x="68" y="636" fill="#1D2A32" font-family="Segoe UI" font-size="20">• Broken streetlight near taxi rank</text>
-  <text x="68" y="667" fill="#1D2A32" font-family="Segoe UI" font-size="20">• Blocked drain in Galeshewe</text>
+  <text x="68" y="605" fill="#1D2A32" font-family="Segoe UI" font-size="20">- Pothole on Main Street</text>
+  <text x="68" y="636" fill="#1D2A32" font-family="Segoe UI" font-size="20">- Broken streetlight near taxi rank</text>
+  <text x="68" y="667" fill="#1D2A32" font-family="Segoe UI" font-size="20">- Blocked drain in Galeshewe</text>
 </svg>
