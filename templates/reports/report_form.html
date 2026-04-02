@@ -16,8 +16,10 @@
 </section>
 
 <section class="form-card">
-    <div class="progress-pill">Step 1 of 3</div>
-    <p class="helper-copy">Fields marked with * are required.</p>
+    <div class="form-topbar">
+        <div class="progress-pill">Step 1 of 3</div>
+        <p class="helper-copy">Fields marked with * are required.</p>
+    </div>
 
     <form novalidate>
         <label for="issue_type">Select issue type *</label>
@@ -38,7 +40,21 @@
             required aria-describedby="location-help">
         <p id="location-help" class="field-hint">Use a street name, landmark, or suburb to improve response time.</p>
 
-        <button type="submit">Submit Report</button>
+        <div class="info-strip">
+            <div>
+                <strong>Estimated flow</strong>
+                <p>Submit report, receive confirmation, then monitor progress updates on the dashboard.</p>
+            </div>
+            <div>
+                <strong>Best practice</strong>
+                <p>Include a photo and accurate location to help the municipality verify the issue faster.</p>
+            </div>
+        </div>
+
+        <div class="form-actions">
+            <span class="action-note">Your report stays visible on the dashboard after submission.</span>
+            <button type="submit">Submit Report</button>
+        </div>
     </form>
     <p class="form-note">This is a wireframe structure, so the form is visual only for the assignment.</p>
 </section>

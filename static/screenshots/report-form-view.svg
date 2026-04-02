@@ -16,7 +16,7 @@
   <rect x="980" y="186" width="198" height="54" rx="27" fill="white" stroke="#0E7C6B" stroke-width="2"/>
   <text x="1028" y="220" fill="#0F766E" font-family="Segoe UI" font-size="20" font-weight="700">Back to Dashboard</text>
 
-  <rect x="214" y="320" width="852" height="496" rx="26" fill="#FFFDFA" stroke="#D9E4DE"/>
+  <rect x="214" y="320" width="852" height="564" rx="26" fill="#FFFDFA" stroke="#D9E4DE"/>
   <rect x="256" y="354" width="120" height="40" rx="20" fill="#D8F0E6"/>
   <text x="276" y="380" fill="#0D5B54" font-family="Segoe UI" font-size="18" font-weight="700">Step 1 of 3</text>
   <text x="404" y="380" fill="#5C6C72" font-family="Segoe UI" font-size="17">Fields marked with * are required.</text>
@@ -36,6 +36,15 @@
   <text x="282" y="775" fill="#5C6C72" font-family="Segoe UI" font-size="18">Auto-detect or enter address manually</text>
   <text x="256" y="821" fill="#5C6C72" font-family="Segoe UI" font-size="16">Use a street name, landmark, or suburb to improve response time.</text>
 
-  <rect x="830" y="748" width="194" height="56" rx="28" fill="#0E7C6B"/>
-  <text x="868" y="783" fill="white" font-family="Segoe UI" font-size="20" font-weight="700">Submit Report</text>
+  <rect x="256" y="842" width="370" height="68" rx="18" fill="#F7FBF8" stroke="#D9E4DE"/>
+  <text x="278" y="870" fill="#17313A" font-family="Segoe UI" font-size="16" font-weight="700">Estimated flow</text>
+  <text x="278" y="894" fill="#5C6C72" font-family="Segoe UI" font-size="14">Submit, receive confirmation, then track progress</text>
+
+  <rect x="650" y="842" width="374" height="68" rx="18" fill="#F7FBF8" stroke="#D9E4DE"/>
+  <text x="672" y="870" fill="#17313A" font-family="Segoe UI" font-size="16" font-weight="700">Best practice</text>
+  <text x="672" y="894" fill="#5C6C72" font-family="Segoe UI" font-size="14">Add a photo and accurate location for faster action</text>
+
+  <text x="256" y="944" fill="#5C6C72" font-family="Segoe UI" font-size="16">Your report stays visible on the dashboard after submission.</text>
+  <rect x="810" y="920" width="214" height="56" rx="28" fill="#0E7C6B"/>
+  <text x="846" y="955" fill="white" font-family="Segoe UI" font-size="20" font-weight="700">Submit Report</text>
 </svg>

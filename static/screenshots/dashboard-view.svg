@@ -1,5 +1,5 @@
-<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1280" height="720" fill="#EEF4F1"/>
+<svg width="1280" height="860" viewBox="0 0 1280 860" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="860" fill="#EEF4F1"/>
   <rect x="40" y="28" width="1200" height="86" rx="24" fill="#FFFDFA" stroke="#D9E4DE"/>
   <rect x="68" y="49" width="50" height="50" rx="16" fill="#0E7C6B"/>
   <text x="81" y="81" fill="white" font-family="Segoe UI" font-size="24" font-weight="700">CF</text>
@@ -42,9 +42,21 @@
   <text x="816" y="456" fill="#143128" font-family="Segoe UI" font-size="34" font-weight="700">1</text>
   <text x="1040" y="456" fill="#143128" font-family="Segoe UI" font-size="34" font-weight="700">4</text>
 
-  <rect x="40" y="524" width="1200" height="152" rx="24" fill="#FFFDFA" stroke="#D9E4DE"/>
-  <text x="68" y="566" fill="#1D2A32" font-family="Segoe UI" font-size="28" font-weight="700">Recent Reports</text>
-  <text x="68" y="605" fill="#1D2A32" font-family="Segoe UI" font-size="20">- Pothole on Main Street</text>
-  <text x="68" y="636" fill="#1D2A32" font-family="Segoe UI" font-size="20">- Broken streetlight near taxi rank</text>
-  <text x="68" y="667" fill="#1D2A32" font-family="Segoe UI" font-size="20">- Blocked drain in Galeshewe</text>
+  <rect x="40" y="524" width="380" height="146" rx="24" fill="#FFFDFA" stroke="#D9E4DE"/>
+  <text x="68" y="566" fill="#1D2A32" font-family="Segoe UI" font-size="28" font-weight="700">Service Tips</text>
+  <text x="68" y="604" fill="#1D2A32" font-family="Segoe UI" font-size="18">- Add a clear location or landmark</text>
+  <text x="68" y="632" fill="#1D2A32" font-family="Segoe UI" font-size="18">- Attach a photo if it helps verify</text>
+  <text x="68" y="660" fill="#1D2A32" font-family="Segoe UI" font-size="18">- Check progress after submission</text>
+
+  <rect x="446" y="524" width="794" height="146" rx="24" fill="#FFFDFA" stroke="#D9E4DE"/>
+  <text x="474" y="566" fill="#1D2A32" font-family="Segoe UI" font-size="28" font-weight="700">Resident Support</text>
+  <rect x="474" y="586" width="738" height="58" rx="18" fill="#F5FBF8" stroke="#CFE0D8"/>
+  <text x="500" y="617" fill="#17313A" font-family="Segoe UI" font-size="18" font-weight="700">Need guidance?</text>
+  <text x="632" y="617" fill="#5C6C72" font-family="Segoe UI" font-size="17">Use Help Center for reporting steps, categories, and what happens next.</text>
+
+  <rect x="40" y="696" width="1200" height="128" rx="24" fill="#FFFDFA" stroke="#D9E4DE"/>
+  <text x="68" y="738" fill="#1D2A32" font-family="Segoe UI" font-size="28" font-weight="700">Recent Reports</text>
+  <text x="68" y="777" fill="#1D2A32" font-family="Segoe UI" font-size="20">- Pothole on Main Street</text>
+  <text x="438" y="777" fill="#1D2A32" font-family="Segoe UI" font-size="20">- Broken streetlight near taxi rank</text>
+  <text x="890" y="777" fill="#1D2A32" font-family="Segoe UI" font-size="20">- Blocked drain in Galeshewe</text>
 </svg>

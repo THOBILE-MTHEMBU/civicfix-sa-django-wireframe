@@ -18,6 +18,7 @@
 <section class="grid-layout">
     <article class="card">
         <h3>Quick Access</h3>
+        <p class="card-copy">Choose the next task quickly without searching through menus.</p>
         <div class="button-grid">
             <a href="{% url 'dashboard:home' %}">Dashboard</a>
             <a href="{% url 'reports:create_report' %}">Report New Issue</a>
@@ -28,6 +29,7 @@
 
     <article class="card">
         <h3>Report Status</h3>
+        <p class="card-copy">Track current issues at a glance with clear visual feedback.</p>
         <div class="status-row">
             {% for card in status_cards %}
             <div class="status-card {{ card.tone }}">
@@ -38,8 +40,28 @@
         </div>
     </article>
 
+    <article class="card">
+        <h3>Service Tips</h3>
+        <p class="card-copy">Helpful reminders improve accuracy and speed up response time.</p>
+        <ul class="tip-list">
+            <li>Add a clear location or landmark.</li>
+            <li>Attach a photo when it helps verify the problem.</li>
+            <li>Check status updates regularly after submission.</li>
+        </ul>
+    </article>
+
+    <article class="card">
+        <h3>Resident Support</h3>
+        <p class="card-copy">The wireframe keeps help visible for first-time and low-confidence users.</p>
+        <div class="support-box">
+            <strong>Need guidance?</strong>
+            <p>Use Help Center for reporting steps, categories, and what happens after submission.</p>
+        </div>
+    </article>
+
     <article class="card wide-card">
         <h3>Recent Reports</h3>
+        <p class="card-copy">Recent activity reassures residents that their reports are recorded.</p>
         <ul class="report-list">
             {% for report in recent_reports %}
             <li>{{ report }}</li>
