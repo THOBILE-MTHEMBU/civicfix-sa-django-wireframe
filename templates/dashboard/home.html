@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% block title %}Home | CityMenderSA{% endblock %}
+{% block title %}Home | CivicFix SA{% endblock %}
 
 {% block content %}
 <section class="hero-panel">
@@ -20,9 +20,9 @@
         <h3>Quick Access</h3>
         <div class="button-grid">
             <a href="{% url 'dashboard:home' %}">Dashboard</a>
-            <a href="{% url 'reports:create_report' %}">Profile</a>
-            <a href="{% url 'reports:create_report' %}">Settings</a>
-            <a href="{% url 'reports:create_report' %}">Help</a>
+            <a href="{% url 'reports:create_report' %}">Report New Issue</a>
+            <a href="{% url 'reports:create_report' %}">Track Existing</a>
+            <a href="{% url 'reports:create_report' %}">Help Center</a>
         </div>
     </article>
 

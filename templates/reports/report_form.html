@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% block title %}Report Issue | CityMenderSA{% endblock %}
+{% block title %}Report Issue | CivicFix SA{% endblock %}
 
 {% block content %}
 <section class="hero-panel compact">
@@ -17,20 +17,26 @@
 
 <section class="form-card">
     <div class="progress-pill">Step 1 of 3</div>
+    <p class="helper-copy">Fields marked with * are required.</p>
 
-    <form>
-        <label for="issue_type">Select issue type</label>
-        <select id="issue_type" name="issue_type">
+    <form novalidate>
+        <label for="issue_type">Select issue type *</label>
+        <select id="issue_type" name="issue_type" required aria-describedby="issue-type-help">
+            <option value="">Choose one...</option>
             {% for issue_type in issue_types %}
-            <option>{{ issue_type }}</option>
+            <option value="{{ issue_type }}">{{ issue_type }}</option>
             {% endfor %}
         </select>
+        <p id="issue-type-help" class="field-hint">Choose the category that best matches the problem.</p>
 
         <label for="photo">Upload photo</label>
-        <input id="photo" name="photo" type="file">
+        <input id="photo" name="photo" type="file" aria-describedby="photo-help">
+        <p id="photo-help" class="field-hint">Optional: add evidence to help the municipality verify the issue.</p>
 
-        <label for="location">Add location</label>
-        <input id="location" name="location" type="text" placeholder="Auto-detect or enter address manually">
+        <label for="location">Add location *</label>
+        <input id="location" name="location" type="text" placeholder="Auto-detect or enter address manually"
+            required aria-describedby="location-help">
+        <p id="location-help" class="field-hint">Use a street name, landmark, or suburb to improve response time.</p>
 
         <button type="submit">Submit Report</button>
     </form>

@@ -1,4 +1,4 @@
-# CityMenderSA Django Wireframe
+# CivicFix SA Django Wireframe
 
 This repository contains a basic Django wireframe for a community issue-reporting system. It was designed to satisfy the assignment requirement for two apps, two templates, two views, and working URL routing.
 
@@ -21,7 +21,7 @@ The layout uses a shared `base.html` template with a top navigation bar. From th
 
 ## GitHub Link
 
-https://github.com/THOBILE-MTHEMBU/citymendersa-django-wireframe
+https://github.com/THOBILE-MTHEMBU/civicfix-sa-django-wireframe
 ## Screenshots
 
 ### 1. Dashboard View

@@ -4,7 +4,7 @@
   <rect x="68" y="49" width="50" height="50" rx="16" fill="#0F766E"/>
   <text x="80" y="81" fill="white" font-family="Segoe UI" font-size="24" font-weight="700">CM</text>
   <text x="138" y="64" fill="#5C6C72" font-family="Segoe UI" font-size="16">Community service reporting</text>
-  <text x="138" y="92" fill="#1D2A32" font-family="Segoe UI" font-size="28" font-weight="700">CityMenderSA</text>
+<text x="138" y="92" fill="#1D2A32" font-family="Segoe UI" font-size="28" font-weight="700">CivicFix SA</text>
   <text x="946" y="79" fill="#1D2A32" font-family="Segoe UI" font-size="20" font-weight="600">Dashboard</text>
   <text x="1085" y="79" fill="#1D2A32" font-family="Segoe UI" font-size="20" font-weight="600">Report Issue</text>
 
